@@ -6,6 +6,7 @@
 typedef struct  {
     int tam;
     int ultelem;
+    int capacidad;
     int vec[TAMVEC];
 
 } TVec;
